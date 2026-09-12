@@ -1,0 +1,1 @@
+Add supplied CMS logo/gallery assets here. No video assets are required.
